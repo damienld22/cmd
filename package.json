@@ -1,0 +1,17 @@
+{
+  "name": "cmd",
+  "version": "1.0.0",
+  "description": "CLI to manage commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damien Le Dantec <damien-le-dantec@hotmail.fr>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clui": "^0.3.6",
+    "inquirer": "^8.0.0",
+    "minimist": "^1.2.5"
+  }
+}
